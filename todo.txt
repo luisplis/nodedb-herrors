@@ -45,3 +45,6 @@ customers> db.customers.find()
     __v: 0
   }
 ]
+
+// https://docs.docker.com/desktop/setup/install/windows-install/
+// # docker build . -t customerapp
